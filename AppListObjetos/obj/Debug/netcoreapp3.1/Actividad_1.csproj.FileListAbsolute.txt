@@ -1,0 +1,38 @@
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.exe
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.deps.json
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.runtimeconfig.json
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.runtimeconfig.dev.json
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.dll
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.pdb
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.AssemblyInfo.cs
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.dll
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.pdb
+C:\Users\Steven\Documents\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.genruntimeconfig.cache
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.exe
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.deps.json
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.runtimeconfig.json
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.runtimeconfig.dev.json
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.dll
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.pdb
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.csprojAssemblyReference.cache
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.AssemblyInfoInputs.cache
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.AssemblyInfo.cs
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.csproj.CoreCompileInputs.cache
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.dll
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.pdb
+D:\Johanna\ADSI\II TRIMESTRE\Programación\Taller 2\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.genruntimeconfig.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_1.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\AppListObjetos\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_1.genruntimeconfig.cache

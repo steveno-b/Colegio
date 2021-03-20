@@ -1,0 +1,13 @@
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_2.exe
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_2.deps.json
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.json
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_2.runtimeconfig.dev.json
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\bin\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.csprojAssemblyReference.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfoInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.AssemblyInfo.cs
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.csproj.CoreCompileInputs.cache
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.dll
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.pdb
+C:\Users\Steven\Documents\Sena\2do\POOB\Colegio\AppListObjetos\obj\Debug\netcoreapp3.1\Actividad_2.genruntimeconfig.cache

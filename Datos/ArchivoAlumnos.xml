@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfAlumno xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Alumno>
+    <Codigo>3232</Codigo>
+    <Nombre>rterte</Nombre>
+    <Apellido>gfdfgdfg</Apellido>
+    <Nota1>2</Nota1>
+    <Nota2>6</Nota2>
+    <Nota3>4</Nota3>
+    <NotaDef>4</NotaDef>
+    <Caja>Aprobado</Caja>
+  </Alumno>
+  <Alumno>
+    <Codigo>323</Codigo>
+    <Nombre>fdsf</Nombre>
+    <Apellido>fsdfsdf</Apellido>
+    <Nota1>2</Nota1>
+    <Nota2>5</Nota2>
+    <Nota3>4</Nota3>
+    <NotaDef>3.6666666666666665</NotaDef>
+    <Caja>Aprobado</Caja>
+  </Alumno>
+  <Alumno>
+    <Codigo>988</Codigo>
+    <Nombre>Juan</Nombre>
+    <Apellido>Perez</Apellido>
+    <Nota1>4.5</Nota1>
+    <Nota2>3</Nota2>
+    <Nota3>2.5</Nota3>
+    <NotaDef>3.3333333333333335</NotaDef>
+    <Caja>Reprobado</Caja>
+  </Alumno>
+</ArrayOfAlumno>
